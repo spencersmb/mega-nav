@@ -1,0 +1,451 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"z",
+				"z-index"
+			],
+			[
+				"project__",
+				"project__meta"
+			],
+			[
+				"font",
+				"font-weight"
+			],
+			[
+				"margin",
+				"margin-top"
+			],
+			[
+				"marg",
+				"margin-top"
+			],
+			[
+				"mi",
+				"min-height"
+			],
+			[
+				"back",
+				"background-position"
+			],
+			[
+				"background",
+				"background-color"
+			],
+			[
+				"border-c",
+				"border-color"
+			],
+			[
+				"mar",
+				"margin-bottom"
+			],
+			[
+				"no",
+				"no-repeat"
+			],
+			[
+				"pad",
+				"padding"
+			],
+			[
+				"text",
+				"text-indent"
+			],
+			[
+				"paddin",
+				"padding-top"
+			],
+			[
+				"st",
+				"strong	Tag"
+			],
+			[
+				"o",
+				"ol	Tag"
+			],
+			[
+				"bord",
+				"border-bottom"
+			],
+			[
+				"bo",
+				"border-bottom"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"prodcut",
+				"product-description"
+			],
+			[
+				"product",
+				"product-title"
+			],
+			[
+				"con",
+				"controller"
+			],
+			[
+				"pre",
+				"previous"
+			],
+			[
+				"add",
+				"addClass	.addClass()"
+			],
+			[
+				"animate",
+				"animate	.animate()"
+			],
+			[
+				"the",
+				"theList"
+			],
+			[
+				"sty",
+				"style	Tag"
+			],
+			[
+				"sa",
+				"siaf	siaf"
+			],
+			[
+				"change",
+				"changetext"
+			],
+			[
+				"evt",
+				"evtTarget"
+			],
+			[
+				"ev",
+				"evtTarget"
+			],
+			[
+				"s",
+				"siaf	siaf"
+			],
+			[
+				"cus",
+				"custom_field"
+			],
+			[
+				"padd",
+				"padding-top"
+			],
+			[
+				"padding",
+				"padding-top"
+			],
+			[
+				"pos",
+				"position"
+			],
+			[
+				"list",
+				"list-style"
+			],
+			[
+				"wid",
+				"width"
+			],
+			[
+				"backg",
+				"background-color"
+			],
+			[
+				"in",
+				"inline-block"
+			],
+			[
+				"tex",
+				"text-align"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"selected_items":
+		[
+			[
+				"ht",
+				"Set Syntax: HTML5"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Enable Package"
+			],
+			[
+				"in",
+				"Package Control: Install Package"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"pac",
+				"Package Control: Install Package"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"Install",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 416.0
+	},
+	"console":
+	{
+		"height": 174.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '7183a2d3e96f11eeadd761d777e62404' + 'e330c659d4bb41d3bdf022e94cab3cd0'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+	],
+	"file_history":
+	[
+		"/C/Users/spencer/Desktop/treehouse/cody house mega-menu/css/style.css",
+		"/C/Users/spencer/Downloads/json-example-jquery4u/json-example-jquery4u/json-data.php",
+		"/C/Users/spencer/Desktop/pretzel/dev/_config.yml",
+		"/C/Users/spencer/Desktop/pretzel/test site/_config.yml",
+		"/C/Users/spencer/Desktop/pretzel/test site/index.md",
+		"/C/Users/spencer/Documents/GitHub/sq5/_site/css/styles.css",
+		"/C/Program Files (x86)/Git/doc/git/html/git-fetch.html",
+		"/C/Users/spencer/Desktop/pretzel/dev/_layouts/default.html",
+		"/C/Users/spencer/Desktop/pretzel/dev/index.html",
+		"/C/Users/spencer/Desktop/pretzel/dev/contact/index.html",
+		"/C/Users/spencer/Desktop/30DaysJQuery/LAD/css/overlay.css",
+		"/C/Users/spencer/Desktop/30DaysJQuery/LAD/index.html",
+		"/C/Users/spencer/Desktop/30DaysJQuery/sf-30daysJQuery/lesson-1/lesson-1/index.html",
+		"/C/Users/spencer/AppData/Roaming/Sublime Text 3/Packages/User/Plain text.sublime-settings",
+		"/C/Users/spencer/Desktop/30DaysJQuery/treehouse/bootstrap website basic/css/my-styles.css",
+		"/C/Users/spencer/Desktop/frameworks/adding feature icon/3-6/3-6/start/index.html",
+		"/C/Users/spencer/Desktop/30DaysJQuery/treehouse/bootstrap framework 1/index.html",
+		"/C/Users/spencer/Desktop/30DaysJQuery/treehouse/bootstrap website basic/index.html",
+		"/C/Users/spencer/Desktop/30DaysJQuery/treehouse/bootstrap framework 1/css/ribbit.css",
+		"/C/Users/spencer/Downloads/OffCanvasMenuEffects/OffCanvasMenuEffects/elastic.html",
+		"/C/Users/spencer/Downloads/OffCanvasMenuEffects/OffCanvasMenuEffects/js/main3.js",
+		"/C/Users/spencer/Downloads/OffCanvasMenuEffects/OffCanvasMenuEffects/js/classie.js",
+		"/C/Users/spencer/Downloads/3-3/3-3/final/index.html",
+		"/C/Users/spencer/Downloads/3-2/3-2/final/index.html",
+		"/C/Users/spencer/Downloads/2-9/2-9/start/code-snippets.html",
+		"/C/Users/spencer/Downloads/2-8/final/index.html",
+		"/C/Users/spencer/Downloads/2-8/start/code-snippets.html",
+		"/C/Users/spencer/Downloads/2-6/final/index.html",
+		"/C/Users/spencer/Downloads/2-6/start/index.html",
+		"/C/Users/spencer/Downloads/2-5/2-5/start/index.html",
+		"/C/Users/spencer/Downloads/2-6/start/code-snippets.html",
+		"/C/Users/spencer/Downloads/2-5/2-5/start/code-snippets.html",
+		"/C/Users/spencer/Desktop/30DaysJQuery/sf-30daysJQuery/lesson-2/lesson-2/index.html",
+		"/C/Users/spencer/Downloads/2-4/start/index.html",
+		"/C/Users/spencer/Desktop/30DaysJQuery/angular 1/index.html",
+		"/C/Users/spencer/Desktop/30DaysJQuery/angular 1/product-tabs.html",
+		"/C/Users/spencer/Desktop/30DaysJQuery/angular 1/product-reviews.html",
+		"/C/Users/spencer/Desktop/30DaysJQuery/angular 1/product-gallery.html",
+		"/C/Users/spencer/Desktop/30DaysJQuery/angular 1/product-specs.html",
+		"/C/Users/spencer/Desktop/30DaysJQuery/angular 1/product-title.html",
+		"/C/Users/spencer/Desktop/30DaysJQuery/angular 1/product-description.html",
+		"/C/Users/spencer/Desktop/30DaysJQuery/angular 1/css/spenceer.css",
+		"/C/Users/spencer/Desktop/30DaysJQuery/angular 1/js/app.js",
+		"/C/Users/spencer/Desktop/30DaysJQuery/angular 1/js/products.js",
+		"/C/Users/spencer/Desktop/30DaysJQuery/essentials/manipulate page content.html",
+		"/C/Users/spencer/angular-phonecat/app/js/filters.js",
+		"/C/Users/spencer/angular-phonecat/app/partials/phone-detail.html",
+		"/C/Users/spencer/angular-phonecat/app/partials/phone-list.html",
+		"/C/Users/spencer/angular-phonecat/app/js/app.js",
+		"/C/Users/spencer/angular-phonecat/app/js/controllers.js",
+		"/C/Users/spencer/angular-phonecat/test/e2e/scenarios.js",
+		"/C/Users/spencer/Desktop/30DaysJQuery/codeschool/lesson 3/js/trains.js",
+		"/C/Users/spencer/angular-phonecat/app/index.html",
+		"/C/Users/spencer/Desktop/30DaysJQuery/sf-30daysJQuery/lesson-1/lesson-1/index_spencer.html",
+		"/C/Users/spencer/Downloads/believe/believe/features_spencer.html",
+		"/C/Users/spencer/Desktop/30DaysJQuery/essentials/style.css",
+		"/C/Users/spencer/angular-phonecat/test/unit/controllersSpec.js",
+		"/C/Users/spencer/Desktop/30DaysJQuery/essentials/practical example 4 - Image rotator.html",
+		"/C/Users/spencer/Desktop/30DaysJQuery/essentials/hiding and showing elements.html",
+		"/C/Users/spencer/angular-phonecat/app/js/services.js",
+		"/C/Users/spencer/AppData/Roaming/Sublime Text 3/Packages/SublimeLinter/SublimeLinter.sublime-settings",
+		"/C/Users/spencer/Desktop/30DaysJQuery/essentials/events.html",
+		"/C/Users/spencer/Desktop/30DaysJQuery/essentials/quiz 1.html",
+		"/C/Users/spencer/Downloads/believe/believe/css/style.css",
+		"/C/Users/spencer/Desktop/30DaysJQuery/quizzes/1-intro/index.html",
+		"/C/xampp/htdocs/local_wp/wp-content/themes/twentyfourteen/single.php",
+		"/C/xampp/htdocs/local_wp/wp-content/plugins/posttypes/meta_box_function.php",
+		"/C/xampp/htdocs/local_wp/wp-content/themes/twentyfourteen/js/custom.js",
+		"/C/xampp/htdocs/local_wp/wp-content/themes/BoilerstrapWP/functions.php",
+		"/C/xampp/htdocs/local_wp/wp-content/themes/BoilerstrapWP/style.css",
+		"/C/xampp/htdocs/local_wp/wp-content/themes/BoilerstrapWP/styles/styles.css",
+		"/C/xampp/htdocs/local_wp/wp-content/plugins/posttypes/posttypes.php",
+		"/C/xampp/htdocs/local_wp/wp-content/themes/BoilerstrapWP/single.php",
+		"/C/xampp/htdocs/local_wp/wp-content/themes/BoilerstrapWP/styles/styles.scss",
+		"/C/Users/spencer/Desktop/ethereal/believe/css/style-ethereal.css",
+		"/C/xampp/htdocs/phpinfo.php",
+		"/C/Users/spencer/AppData/Roaming/Sublime Text 3/Packages/User/SublimeLinter.sublime-settings",
+		"/C/xampp/htdocs/local_wp/wp-content/plugins/posttypes/js/custom.js",
+		"/C/Users/spencer/Desktop/ethereal/believe/features_spencer.html",
+		"/C/xampp/htdocs/local_wp/wp-content/plugins/posttypes/meta_box_function",
+		"/C/Users/spencer/Downloads/714-Believe/css/style-ethereal.css",
+		"/C/Users/spencer/Downloads/island01-stage06-shirts4mike/shirts4mike/index.php",
+		"/C/Users/spencer/Downloads/IE fix/IE fix/css/designstudio.css",
+		"/C/Users/spencer/Downloads/IE fix/IE fix/css/responsive.css",
+		"/C/Users/spencer/Downloads/IE fix/IE fix/index.html",
+		"/C/Users/spencer/Downloads/IE fix/IE fix/css/custom.css",
+		"/C/Users/spencer/Downloads/lynda tutorial/lynda tutorial/css/custom.css",
+		"/C/Users/spencer/Downloads/index_spencer.html",
+		"/C/Users/spencer/Downloads/lynda tutorial/lynda tutorial/03_04.html",
+		"/C/Program Files/Sublime Text 3/changelog.txt",
+		"/C/Users/spencer/Desktop/IL template website/my mockup/test_1.html",
+		"/C/Users/spencer/Desktop/IL template website/my mockup/js/scripts.js",
+		"/C/Users/spencer/Desktop/IL template website/my mockup/assets/js/bootstrap-carousel.js"
+	],
+	"find":
+	{
+		"height": 30.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"project__galler",
+			" ",
+			"xs-6"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 30.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"project": "mega-nav.sublime-project",
+	"replace":
+	{
+		"height": 56.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

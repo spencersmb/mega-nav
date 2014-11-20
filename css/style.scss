@@ -1,0 +1,106 @@
+@import 'bourbon'; // http://bourbon.io/
+
+@import '../partials/variables'; // colors, fonts etc...
+
+@import '../partials/layout'; // responsive grid and media queries*, *::after, *::before {
+
+
+*, *::after, *::before {
+	@include box-sizing(border-box);
+}
+
+
+
+html {
+	font-size: 62.5%;
+}
+
+body {
+	font: {
+		size: 1.6rem;
+		family: $primary-font; // variables inside partials > _variables.scss
+	}
+	color: $color-1;
+	background-color: $color-4;
+
+	@include MQ(maxL) { // layout mixins inside partials > _layout.scss
+		&.nav-on-left.overflow-hidden {
+			overflow: hidden;
+		}
+	}
+}
+
+a {
+	color: $color-2;
+	text-decoration: none;
+}
+
+img {
+	/* make images responsive */
+	max-width: 100%;
+}
+
+input {
+	font-family: $primary-font;
+	font-size: 1.6rem;
+}
+
+input[type="search"]::-ms-clear {
+	/* removes close icon - IE */
+    display: none;
+}
+
+input[type="search"]::-webkit-search-decoration,
+input[type="search"]::-webkit-search-cancel-button,
+input[type="search"]::-webkit-search-results-button,
+input[type="search"]::-webkit-search-results-decoration {
+  display: none;
+}
+
+// .cd-main-content, .cd-main-header {
+// 	/* Force Hardware Acceleration in WebKit */
+// 	@include transform(translateZ(0));
+// 	will-change: transform;
+// }
+
+// .cd-main-content, .cd-main-header {
+// 	position: relative;
+// 	@include transition(transform .3s);
+
+// 	@include MQ(maxL) {
+// 		&.nav-is-visible {
+// 			@include transform(translateX(-$nav-width-S));
+// 		}
+
+// 		.nav-on-left &.nav-is-visible {
+// 			@include transform(translateX($nav-width-S));
+// 		}
+// 	}
+// }
+
+
+//header shell
+.cd-main-content {
+	background: $color-3;
+	min-height: 100vh;
+	z-index: $content;
+}
+
+.cd-main-header {
+	height: $header-height-S;
+	background: $color-4;
+	z-index: $above-content;
+
+	.nav-is-fixed & {
+		/* add .nav-is-fixed class to body if you want a fixed navigation on > 1170px */
+		position: fixed;
+		top: 0;
+		left: 0;
+		width: 100%;
+	}
+
+	@include MQ(L) {
+		height: $header-height-L;
+		@include clearfix;
+	}
+}

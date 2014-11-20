@@ -1,0 +1,77 @@
+*, *::after, *::before {
+  -webkit-box-sizing: border-box;
+  -moz-box-sizing: border-box;
+  box-sizing: border-box;
+}
+
+html {
+  font-size: 62.5%;
+}
+
+body {
+  font-size: 1.6rem;
+  font-family: sans-serif;
+  color: #2e3233;
+  background-color: white;
+}
+@media only screen and (max-width: 1169px) {
+  body.nav-on-left.overflow-hidden {
+    overflow: hidden;
+  }
+}
+
+a {
+  color: #69aa6f;
+  text-decoration: none;
+}
+
+img {
+  /* make images responsive */
+  max-width: 100%;
+}
+
+input {
+  font-family: sans-serif;
+  font-size: 1.6rem;
+}
+
+input[type="search"]::-ms-clear {
+  /* removes close icon - IE */
+  display: none;
+}
+
+input[type="search"]::-webkit-search-decoration,
+input[type="search"]::-webkit-search-cancel-button,
+input[type="search"]::-webkit-search-results-button,
+input[type="search"]::-webkit-search-results-decoration {
+  display: none;
+}
+
+.cd-main-content {
+  background: #e2e3df;
+  min-height: 100vh;
+  z-index: 2;
+}
+
+.cd-main-header {
+  height: 50px;
+  background: white;
+  z-index: 3;
+}
+.nav-is-fixed .cd-main-header {
+  /* add .nav-is-fixed class to body if you want a fixed navigation on > 1170px */
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+}
+@media only screen and (min-width: 1170px) {
+  .cd-main-header {
+    height: 80px;
+  }
+  .cd-main-header:after {
+    content: "";
+    display: table;
+    clear: both;
+  }
+}
